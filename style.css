@@ -1,0 +1,11 @@
+body
+{
+    background-size: cover;
+}
+
+canvas
+{
+    background-color: teal;
+    border: 5px solid white;
+    box-shadow: 5px 10px 15px grey;
+}
